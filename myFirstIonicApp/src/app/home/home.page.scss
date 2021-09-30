@@ -1,6 +1,6 @@
 #container {
   text-align: center;
-
+  margin-top: 15vh;
   position: absolute;
   left: 0;
   right: 0;
@@ -24,4 +24,15 @@
 
 #container a {
   text-decoration: none;
+}
+
+ion-col {
+  background: rgba(157, 157, 255, 0.034);
+  border: .1rem solid rgba(49, 49, 49, 0.103);
+  padding: 1rem;
+
+  border-radius: .5rem;
+}
+ion-row{
+  margin:0 .5rem ;
 }
